@@ -67,8 +67,8 @@ RUN :npm start
 
 ## 📷 Screenshots
 
-### 🖼️ Feedback Form with Lottie Animation
-![Feedback Form](./form.png)
+### 🧾 Feedback Form with Lottie Animation
+<img src="./form.png" alt="Feedback Form" width="500"/>
 
-### 📋 Feedback List View
-![Feedback List](./dash.png)
+### 📄 Feedback List View
+<img src="./dash.png" alt="Feedback List" width="500"/>
